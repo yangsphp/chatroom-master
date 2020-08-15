@@ -18,4 +18,4 @@
 
 ![图一](screenshot/1.png)
 
-具体设计可查看我的博客：[PHP + CI框架 + AdminLITE权限管理系统](https://www.cnblogs.com/yang-2018/p/11584974.html)
+具体设计可查看我的博客：[PHP 之CI框架 + GatewayWorker + Weui多房间聊天室](https://www.cnblogs.com/yang-2018/p/13508951.html)
